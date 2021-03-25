@@ -41,3 +41,16 @@ export const data = {
 		}
 	]
 };
+
+export const home = {
+  'title': 'Home',
+  'blocks': [
+    {
+      'type': 'marquee',
+      'headline': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultricies.',
+      'subhead': 'Lorem ipsum dolor sit amet.',
+      'cta': 'Lorem ipsum.',
+      'backgroud': 'slide_three.jpg',
+    }
+  ],
+}
