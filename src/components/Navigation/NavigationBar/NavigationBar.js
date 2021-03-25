@@ -3,11 +3,11 @@ import React from 'react';
 import NavigationItems from '../NavigationItems/NavigationItems';
 
 const navigationBar = () => (
-  <header>
+  <div>
     <nav>
       <NavigationItems />
     </nav>
-  </header>
+  </div>
 );
 
 export default navigationBar;

@@ -47,7 +47,7 @@ export const home = {
   'blocks': [
     {
       'type': 'marquee',
-      'headline': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultricies.',
+      'headline': 'Home',
       'subhead': 'Lorem ipsum dolor sit amet.',
       'cta': 'Lorem ipsum.',
       'backgroud': 'slide_three.jpg',
