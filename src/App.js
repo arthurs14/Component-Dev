@@ -8,7 +8,7 @@ import {
 import Page from './components/Page/Page';
 import NavigationBar from './components/Navigation/NavigationBar/NavigationBar';
 import { data, home } from './data/data';
-import logo from './abc_logo.svg';
+import MainBar from './components/Header/MainBar'; 
 import './App.css';
 
 const { pages } = data;
@@ -32,14 +32,7 @@ const App = () => {
   return (
     <div className="main">
       <header>
-        <div>
-          <div>
-            <img src={logo} alt="logo" />
-          </div>
-          <div>
-            Contact Us
-          </div>
-        </div>
+        <MainBar />
         <NavigationBar />
       </header>
       {routes}
