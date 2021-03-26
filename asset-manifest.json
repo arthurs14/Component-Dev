@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Component-Dev/static/css/main.146f9378.chunk.css",
+    "main.js": "/Component-Dev/static/js/main.ee1608c5.chunk.js",
+    "main.js.map": "/Component-Dev/static/js/main.ee1608c5.chunk.js.map",
+    "runtime-main.js": "/Component-Dev/static/js/runtime-main.8b1011d2.js",
+    "runtime-main.js.map": "/Component-Dev/static/js/runtime-main.8b1011d2.js.map",
+    "static/js/2.a1763a1c.chunk.js": "/Component-Dev/static/js/2.a1763a1c.chunk.js",
+    "static/js/2.a1763a1c.chunk.js.map": "/Component-Dev/static/js/2.a1763a1c.chunk.js.map",
+    "index.html": "/Component-Dev/index.html",
+    "static/css/main.146f9378.chunk.css.map": "/Component-Dev/static/css/main.146f9378.chunk.css.map",
+    "static/js/2.a1763a1c.chunk.js.LICENSE.txt": "/Component-Dev/static/js/2.a1763a1c.chunk.js.LICENSE.txt",
+    "static/media/abc_logo.c72ca4e0.svg": "/Component-Dev/static/media/abc_logo.c72ca4e0.svg",
+    "static/media/App.module.css": "/Component-Dev/static/media/slide_one.df407357.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1011d2.js",
+    "static/js/2.a1763a1c.chunk.js",
+    "static/css/main.146f9378.chunk.css",
+    "static/js/main.ee1608c5.chunk.js"
+  ]
+}
