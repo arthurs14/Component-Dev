@@ -4,8 +4,8 @@ import NavigationItem from '../NavigationItem/NavigationItem';
 import classes from './NavigationItems.module.css';
 
 const navigationItems = () => (
-  <div className={classes.links}>
-    <ul className={classes.ul}>
+  <div>
+    <ul className={classes.NavigationItem}>
       <NavigationItem title="Industries" link="/industries" />
       <NavigationItem title="Services" link="/services" />
       <NavigationItem title="About-Us" link="/about-us" />

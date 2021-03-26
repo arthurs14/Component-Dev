@@ -1,8 +1,8 @@
-.links {
+/* .links {
   margin-left: 60px;
-}
+} */
 
-ul {
+.NavigationItem {
   list-style-type: none;
   margin: 0;
   padding: 0;

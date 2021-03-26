@@ -1,20 +1,25 @@
-.mainbar {
- display:flex;
- flex-direction: row;
-  justify-content:space-between;
+.Mainbar {
+  display:flex;
+  flex-direction: row;
 }
 
-.logo {
-  margin-top: 60px;
-  margin-left: 60px;
+.Logo {
+  width: 4.728rem;
+  height: 2.363rem;
+  margin-top: 1.179rem;
+  margin-left: 8.104rem;
+  object-fit: contain;
 }
 
-.contact {
-  text-align: center;
-  margin-top: 60px;
-  margin-right: 60px;
+.Contact {
+  display: flex;
+  width: 8.688rem;
+  height: 2.625rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.563rem;
+  margin-right: 8.125rem;
+  margin-left: 73.188rem;
+  border: solid 1px #ffffff;
   color: #ffffff;
-  border: 1px solid #ffffff;
-  width: 120px;
-  padding: 1px 5px;
 }
